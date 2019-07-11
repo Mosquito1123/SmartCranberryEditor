@@ -1,0 +1,23 @@
+{
+  "name": "Megrim",
+  "version": "0.1.0",
+  "summary": "Megrim",
+  "description": "Megrim Font",
+  "homepage": "http://www.google.com/fonts/specimen/Megrim",
+  "license": {
+    "type": "OFL",
+    "file": "Specs/Megrim/OFL.txt"
+  },
+  "authors": "Daniel Johnson",
+  "source": {
+    "git": "https://github.com/tnantoka/podspecs.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Megrim.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

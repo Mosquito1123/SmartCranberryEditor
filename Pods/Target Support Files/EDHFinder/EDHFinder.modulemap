@@ -1,0 +1,6 @@
+framework module EDHFinder {
+  umbrella header "EDHFinder-umbrella.h"
+
+  export *
+  module * { export * }
+}

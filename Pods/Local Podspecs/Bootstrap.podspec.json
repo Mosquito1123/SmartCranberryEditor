@@ -1,0 +1,23 @@
+{
+  "name": "Bootstrap",
+  "version": "0.1.0",
+  "summary": "Bootstrap",
+  "description": "Twitter Bootstrap",
+  "homepage": "https://github.com/twbs/bootstrap",
+  "license": {
+    "type": "MIT",
+    "file": "Specs/Bootstrap/LICENSE"
+  },
+  "authors": "Twitter, Inc",
+  "source": {
+    "git": "https://github.com/tnantoka/podspecs.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "Bootstrap.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

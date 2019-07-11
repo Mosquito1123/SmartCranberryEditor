@@ -1,0 +1,6 @@
+framework module EDHFontSelector {
+  umbrella header "EDHFontSelector-umbrella.h"
+
+  export *
+  module * { export * }
+}

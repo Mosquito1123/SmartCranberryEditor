@@ -1,0 +1,102 @@
+PODS:
+  - Bootstrap (0.1.0)
+  - Colours (5.13.0):
+    - Colours/ObjC (= 5.13.0)
+  - Colours/ObjC (5.13.0)
+  - EDHFinder (0.1.2):
+    - EDHUtility (~> 0.1)
+    - FCFileManager (~> 1.0)
+    - FontAwesomeKit (~> 2.2)
+    - MGSwipeTableCell (~> 1.1)
+  - EDHFontSelector (0.2.2):
+    - EDHUtility (~> 0.1)
+  - EDHInputAccessoryView (0.1.1):
+    - EDHUtility (~> 0.1)
+    - FontAwesomeKit (~> 2.1)
+  - EDHUtility (0.1.2)
+  - FCFileManager (1.0.20)
+  - FontAwesomeKit (2.2.1):
+    - FontAwesomeKit/Core (= 2.2.1)
+    - FontAwesomeKit/FontAwesome (= 2.2.1)
+    - FontAwesomeKit/FoundationIcons (= 2.2.1)
+    - FontAwesomeKit/IonIcons (= 2.2.1)
+    - FontAwesomeKit/Material (= 2.2.1)
+    - FontAwesomeKit/Octicons (= 2.2.1)
+    - FontAwesomeKit/Zocial (= 2.2.1)
+  - FontAwesomeKit/Core (2.2.1)
+  - FontAwesomeKit/FontAwesome (2.2.1):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/FoundationIcons (2.2.1):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/IonIcons (2.2.1):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/Material (2.2.1):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/Octicons (2.2.1):
+    - FontAwesomeKit/Core
+  - FontAwesomeKit/Zocial (2.2.1):
+    - FontAwesomeKit/Core
+  - FXForms (1.2.14)
+  - GHMarkdownParser (0.1.2)
+  - github-markdown-css (0.1.0)
+  - Megrim (0.1.0)
+  - MGSwipeTableCell (1.6.8)
+  - SwiftLint (0.33.1)
+  - VTAcknowledgementsViewController (1.5.1)
+
+DEPENDENCIES:
+  - Bootstrap (from `https://raw.githubusercontent.com/tnantoka/podspecs/master/Specs/Bootstrap/Bootstrap.podspec`)
+  - Colours
+  - EDHFinder
+  - EDHFontSelector
+  - EDHInputAccessoryView
+  - FXForms
+  - GHMarkdownParser
+  - github-markdown-css (from `https://raw.githubusercontent.com/tnantoka/podspecs/master/Specs/github-markdown-css/github-markdown-css.podspec`)
+  - Megrim (from `https://raw.githubusercontent.com/tnantoka/podspecs/master/Specs/Megrim/Megrim.podspec`)
+  - SwiftLint
+  - VTAcknowledgementsViewController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Colours
+    - EDHFinder
+    - EDHFontSelector
+    - EDHInputAccessoryView
+    - EDHUtility
+    - FCFileManager
+    - FontAwesomeKit
+    - FXForms
+    - GHMarkdownParser
+    - MGSwipeTableCell
+    - SwiftLint
+    - VTAcknowledgementsViewController
+
+EXTERNAL SOURCES:
+  Bootstrap:
+    :podspec: https://raw.githubusercontent.com/tnantoka/podspecs/master/Specs/Bootstrap/Bootstrap.podspec
+  github-markdown-css:
+    :podspec: https://raw.githubusercontent.com/tnantoka/podspecs/master/Specs/github-markdown-css/github-markdown-css.podspec
+  Megrim:
+    :podspec: https://raw.githubusercontent.com/tnantoka/podspecs/master/Specs/Megrim/Megrim.podspec
+
+SPEC CHECKSUMS:
+  Bootstrap: cbbdd0eec527ba4b52611893814ff3b7d8075a0e
+  Colours: f24220c38f13deac88612667e9b4a7fb96b871d4
+  EDHFinder: 26c9daabda0a535f68db0451ae2bd4eaefad4469
+  EDHFontSelector: db446999fa1bd5db9dbd3709018790d2dfc27f76
+  EDHInputAccessoryView: 3e15385630d6dabb335c52981ffde957d192c8d0
+  EDHUtility: 9e888c6880f52318e6f018374adb3d15c749f4a5
+  FCFileManager: e0f73316e6aa2eb04d2ff4caa75fe7df1ae44270
+  FontAwesomeKit: 3614979b3dbb0ec3f7fac1bd760b91f66c31db67
+  FXForms: 724500c0c3f3eb3ba1004b3b83abcee55d3daf18
+  GHMarkdownParser: 14cbf59d0ab9450017d843dffd4a3ef691e5bd77
+  github-markdown-css: b6933c585e912d9c4b35a5204f1f12e18360b214
+  Megrim: 8498c70aac297ca841e38e3400e45323be9cf6ef
+  MGSwipeTableCell: dc4eca3212ed38a563b27d6aa7b3c01ce656c1e2
+  SwiftLint: 9fc1143bbacec37f94994a7d0d2a85b2154b6294
+  VTAcknowledgementsViewController: 3bb742da852a5161dc9f4b017e52f926a41ef5d3
+
+PODFILE CHECKSUM: 2aebaaf5eafce7bab7d5baeebbc1b87b6bf8c924
+
+COCOAPODS: 1.7.2

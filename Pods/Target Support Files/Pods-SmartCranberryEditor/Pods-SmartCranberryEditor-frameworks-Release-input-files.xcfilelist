@@ -1,0 +1,12 @@
+${PODS_ROOT}/Target Support Files/Pods-SmartCranberryEditor/Pods-SmartCranberryEditor-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Colours/Colours.framework
+${BUILT_PRODUCTS_DIR}/EDHFinder/EDHFinder.framework
+${BUILT_PRODUCTS_DIR}/EDHFontSelector/EDHFontSelector.framework
+${BUILT_PRODUCTS_DIR}/EDHInputAccessoryView/EDHInputAccessoryView.framework
+${BUILT_PRODUCTS_DIR}/EDHUtility/EDHUtility.framework
+${BUILT_PRODUCTS_DIR}/FCFileManager/FCFileManager.framework
+${BUILT_PRODUCTS_DIR}/FXForms/FXForms.framework
+${BUILT_PRODUCTS_DIR}/FontAwesomeKit/FontAwesomeKit.framework
+${BUILT_PRODUCTS_DIR}/GHMarkdownParser/GHMarkdownParser.framework
+${BUILT_PRODUCTS_DIR}/MGSwipeTableCell/MGSwipeTableCell.framework
+${BUILT_PRODUCTS_DIR}/VTAcknowledgementsViewController/VTAcknowledgementsViewController.framework

@@ -1,0 +1,6 @@
+framework module Pods_SmartCranberryEditor {
+  umbrella header "Pods-SmartCranberryEditor-umbrella.h"
+
+  export *
+  module * { export * }
+}
